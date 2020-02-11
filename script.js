@@ -18,7 +18,7 @@ myDogDouglas.push("Annoying");
 myDogDouglas.push("Demon");
 myDogDouglas.push("Loud");
 myDogDouglas.push("Violent");
-myDogDouglas.push("Cloud");
+myDogDouglas.push("Little Shit");
 
 console.log(myDogDouglas);
 
@@ -31,5 +31,5 @@ myDogDouglas.pop();
 console.log(myDogDouglas);
 
 //Declare a new string variable "myString" and place a string of your choosing inside and output with a console.log statement.//
-let myCatJunie = "We rescued Junie from under a semi-truck";
-console.log(myCatJunie.length);
+let myString = "We rescued my cat Junie from under a semi-truck";
+console.log(myString.length);
