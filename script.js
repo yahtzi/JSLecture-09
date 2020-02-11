@@ -31,3 +31,5 @@ myDogDouglas.pop();
 console.log(myDogDouglas);
 
 //Declare a new string variable "myString" and place a string of your choosing inside and output with a console.log statement.//
+let myCatJunie = "We rescued Junie from under a semi-truck";
+console.log(myCatJunie.length);
